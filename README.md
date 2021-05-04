@@ -7,7 +7,7 @@
 ## My portfolio
 * [eCommerce](https://github.com/Elgondor/eCommerce): Made in Django
 * ToDo App: Made in Django
-* Weather: Made in Django
+* [Weather](https://github.com/Elgondor/Weather): Made in Django
 * [S.4 (Super Simple Scheduling System)](https://github.com/Elgondor/S4): Made in Spring Boot
 
 ### Algorithms
