@@ -5,6 +5,7 @@
 - 📫 How to reach me: shokkamax2@gmail.com.
 
 ## My portfolio
+* [(Backend)Real Time Chat](https://github.com/Elgondor/real_time_chat): Made in Django, with Django Rest Framework and Channels.
 * [eCommerce](https://github.com/Elgondor/eCommerce): Made in Django
 * ToDo App: Made in Django
 * [Weather](https://github.com/Elgondor/Weather): Made in Django
